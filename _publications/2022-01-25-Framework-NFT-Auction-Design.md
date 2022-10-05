@@ -3,7 +3,7 @@ title: "A Framework for Single-Item NFT Auction Mechanism Design"
 collection: publications
 permalink: /publication/2022-01-25-Framework-NFT-Auction-Design
 date: 2022-01-25
-venue: ''
+venue: 'ACM CCS DeFi'
 excerpt: ''
 paperurl: 'https://arxiv.org/pdf/2209.11293.pdf'
 ---
