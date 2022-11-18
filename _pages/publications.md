@@ -16,10 +16,10 @@ author_profile: true
 {% endfor %}
 --->
 
-[Automated Market Making and Loss-Versus-Rebalancing](https://arxiv.org/pdf/2208.06046)
+[Automated Market Making and Loss-Versus-Rebalancing](https://arxiv.org/pdf/2208.06046) \[[Long talk at CMU](https://www.youtube.com/watch?v=Xz2PfxlKOZM)\]
 
-[Download paper here](https://arxiv.org/pdf/2209.11293)
+[A Framework for Single-Item NFT Auction Mechanism Design](https://arxiv.org/pdf/2209.11293) \[[Short talk at AISTATS](https://virtual.aistats.org/virtual/2022/poster/3274)\]
 
-[Download paper here](https://arxiv.org/pdf/2203.14129)
+[Nash, Conley, and Computation: Impossibility and Incompleteness in Game Dynamics](https://arxiv.org/pdf/2203.14129)
 
-[Download paper here](https://arxiv.org/pdf/2202.11199)
+[Differentially Private Regression with Unbounded Covariates](https://arxiv.org/pdf/2202.11199)
