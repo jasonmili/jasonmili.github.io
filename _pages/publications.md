@@ -16,6 +16,30 @@ author_profile: true
 {% endfor %}
 --->
 
+[FLAIR: A Metric for Liquidity Provider Competitiveness in Automated Market Makers](https://uniswap.org/flair.pdf)
+<br />
+Jason Milionis, Xin Wan, Austin Adams.
+<br />
+Preliminary working paper.
+
+[Automated Market Making and Arbitrage Profits in the Presence of Fees](https://arxiv.org/pdf/2305.14604)
+<br />
+Jason Milionis, Ciamac C. Moallemi, Tim Roughgarden.
+<br />
+Under submission.
+
+[A Myersonian Framework for Optimal Liquidity Provision in Automated Market Makers](https://arxiv.org/pdf/2303.00208)
+<br />
+Jason Milionis, Ciamac C. Moallemi, Tim Roughgarden.
+<br />
+Under submission.
+
+[Complexity-Approximation Trade-offs in Exchange Mechanisms: AMMs vs. LOBs](https://arxiv.org/pdf/2302.11652)
+<br />
+Jason Milionis, Ciamac C. Moallemi, Tim Roughgarden.
+<br />
+Published at Financial Cryptography and Data Security 2023.
+
 [Automated Market Making and Loss-Versus-Rebalancing](https://arxiv.org/pdf/2208.06046)
 <br />
 Jason Milionis, Ciamac C. Moallemi, Tim Roughgarden, Anthony Lee Zhang.
