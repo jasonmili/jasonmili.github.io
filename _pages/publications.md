@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 --->
 
-[FLAIR: A Metric for Liquidity Provider Competitiveness in Automated Market Makers](https://uniswap.org/flair.pdf)
+[FLAIR: A Metric for Liquidity Provider Competitiveness in Automated Market Makers](https://arxiv.org/pdf/2306.09421)
 <br />
 Jason Milionis, Xin Wan, Austin Adams.
 <br />
