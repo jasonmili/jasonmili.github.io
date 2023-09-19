@@ -26,7 +26,11 @@ Preliminary working paper.
 <br />
 Jason Milionis, Ciamac C. Moallemi, Tim Roughgarden.
 <br />
-Under submission.
+Abstract of earlier version published at Financial Cryptography and Data Security 2023, Workshop on Decentralized Finance.
+<br />
+Full version under submission.
+<br />
+\[[Talk at Stanford](https://www.youtube.com/watch?v=zuJIf_VTtBE)\]
 
 [A Myersonian Framework for Optimal Liquidity Provision in Automated Market Makers](https://arxiv.org/pdf/2303.00208)
 <br />

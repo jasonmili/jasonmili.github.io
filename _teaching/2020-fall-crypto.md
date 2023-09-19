@@ -8,4 +8,4 @@ date: 2020-01-01
 location: "Athens, Greece"
 ---
 
-Created problem sets, graded students' homework assignments and final research projects.
+Created problem sets, held office hours, graded students' homework assignments and final research projects.
