@@ -78,6 +78,8 @@ Jason Milionis, Dean Hirsch, Andy Arditi, Pranav Garimidi.
 <br />
 <i>Proceedings of the 2022 ACM Computer and Communications Security (CCS) Workshop on Decentralized Finance and Security</i> (ACM CCS DeFi 2022).
 <br />
+Selected for publication at the [ACM Showcase](https://www.growkudos.com/publications/10.1145%25252F3560832.3563436/reader).
+<br />
 ([Arxiv](https://arxiv.org/pdf/2209.11293).)
 
 2. [Nash, Conley, and Computation: Impossibility and Incompleteness in Game Dynamics]()
