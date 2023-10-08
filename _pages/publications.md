@@ -34,7 +34,7 @@ Preliminary working paper.
 <br />
 Jason Milionis, Ciamac C. Moallemi, Tim Roughgarden.
 <br />
-Extended abstract, <i>Financial Cryptography and Data Security 2023, Workshop on Decentralized Finance</i>.
+Extended abstract, <i>Financial Cryptography and Data Security</i> (FC 2023), Workshop on Decentralized Finance.
 <br />
 Invited talk, <i>Science of Blockchain Conference 2023 (SBC'23)</i>.
 <br />
@@ -56,7 +56,7 @@ Under submission.
 <br />
 Jason Milionis, Ciamac C. Moallemi, Tim Roughgarden.
 <br />
-<i>Financial Cryptography and Data Security 2023</i>.
+<i>Financial Cryptography and Data Security</i> (FC 2023).
 <br />
 ([Arxiv](https://arxiv.org/pdf/2302.11652).)
 
@@ -64,7 +64,7 @@ Jason Milionis, Ciamac C. Moallemi, Tim Roughgarden.
 <br />
 Jason Milionis, Ciamac C. Moallemi, Tim Roughgarden, Anthony Lee Zhang.
 <br />
-Extended abstract, <i>ACM Conference on Computer and Communications Security (CCS) Workshop on Decentralized Finance and Security (ACM CCS DeFi 2022)</i>.
+Extended abstract, <i>Proceedings of the 2022 ACM Computer and Communications Security (CCS) Workshop on Decentralized Finance and Security</i> (ACM CCS DeFi 2022).
 <br />
 Full version under journal submission.
 <br />
