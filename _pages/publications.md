@@ -22,13 +22,13 @@ Jason Milionis, Christos Papadimitriou, Georgios Piliouras, Kelly Spendlove.
 <br />
 <i>Proceedings of the National Academy of Sciences</i>, vol. 120, no. 41
 
-8\. FLAIR: A Metric for Liquidity Provider Competitiveness in Automated Market Makers
+8\. [A Myersonian Framework for Optimal Liquidity Provision in Automated Market Makers]()
 <br />
-Jason Milionis, Xin Wan, Austin Adams.
+Jason Milionis, Ciamac C. Moallemi, Tim Roughgarden.
 <br />
-Preliminary working paper.
+<i>15th Innovations in Theoretical Computer Science Conference</i> (ITCS 2024).
 <br />
-([Arxiv](https://arxiv.org/pdf/2306.09421).)
+([Arxiv](https://arxiv.org/pdf/2303.00208).)
 
 7\. [Automated Market Making and Arbitrage Profits in the Presence of Fees]()
 <br />
@@ -44,21 +44,21 @@ Full version under journal submission.
 <br />
 \[[Talk at Stanford](https://www.youtube.com/watch?v=zuJIf_VTtBE).\]
 
-6\. A Myersonian Framework for Optimal Liquidity Provision in Automated Market Makers
-<br />
-Jason Milionis, Ciamac C. Moallemi, Tim Roughgarden.
-<br />
-Under submission.
-<br />
-([Arxiv](https://arxiv.org/pdf/2303.00208).)
-
-5\. [Complexity-Approximation Trade-offs in Exchange Mechanisms: AMMs vs. LOBs]()
+6\. [Complexity-Approximation Trade-offs in Exchange Mechanisms: AMMs vs. LOBs]()
 <br />
 Jason Milionis, Ciamac C. Moallemi, Tim Roughgarden.
 <br />
 <i>Financial Cryptography and Data Security</i> (FC 2023).
 <br />
 ([Arxiv](https://arxiv.org/pdf/2302.11652).)
+
+5\. FLAIR: A Metric for Liquidity Provider Competitiveness in Automated Market Makers
+<br />
+Jason Milionis, Xin Wan, Austin Adams.
+<br />
+Preliminary working paper.
+<br />
+([Arxiv](https://arxiv.org/pdf/2306.09421).)
 
 4\. [Automated Market Making and Loss-Versus-Rebalancing](https://dl.acm.org/doi/10.1145/3560832.3563441)
 <br />
