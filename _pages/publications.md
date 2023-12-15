@@ -30,7 +30,7 @@ Jason Milionis, Ciamac C. Moallemi, Tim Roughgarden.
 <br />
 ([Arxiv](https://arxiv.org/pdf/2303.00208).)
 
-7\. [Automated Market Making and Arbitrage Profits in the Presence of Fees]()
+7\. [Automated Market Making and Arbitrage Profits in the Presence of Fees](https://link.springer.com/chapter/10.1007/978-3-031-48806-1_17)
 <br />
 Jason Milionis, Ciamac C. Moallemi, Tim Roughgarden.
 <br />
@@ -44,7 +44,7 @@ Full version under journal submission.
 <br />
 \[[Talk at Stanford](https://www.youtube.com/watch?v=zuJIf_VTtBE).\]
 
-6\. [Complexity-Approximation Trade-offs in Exchange Mechanisms: AMMs vs. LOBs]()
+6\. [Complexity-Approximation Trade-offs in Exchange Mechanisms: AMMs vs. LOBs](https://link.springer.com/chapter/10.1007/978-3-031-47754-6_19)
 <br />
 Jason Milionis, Ciamac C. Moallemi, Tim Roughgarden.
 <br />
@@ -82,7 +82,7 @@ Selected for publication at the [ACM Showcase](https://www.growkudos.com/publica
 <br />
 ([Arxiv](https://arxiv.org/pdf/2209.11293).)
 
-2\. [Nash, Conley, and Computation: Impossibility and Incompleteness in Game Dynamics]()
+2\. [Nash, Conley, and Computation: Impossibility and Incompleteness in Game Dynamics](https://link.springer.com/content/pdf/bbm:978-3-031-15714-1/1?pdf=chapter%20toc)
 <br />
 Jason Milionis, Christos Papadimitriou, Georgios Piliouras, Kelly Spendlove.
 <br />
