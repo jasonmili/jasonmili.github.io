@@ -22,7 +22,7 @@ Jason Milionis, Christos Papadimitriou, Georgios Piliouras, Kelly Spendlove.
 <br />
 <i>Proceedings of the National Academy of Sciences</i>, vol. 120, no. 41
 
-8\. [A Myersonian Framework for Optimal Liquidity Provision in Automated Market Makers]()
+8\. [A Myersonian Framework for Optimal Liquidity Provision in Automated Market Makers](https://doi.org/10.4230/LIPIcs.ITCS.2024.81)
 <br />
 Jason Milionis, Ciamac C. Moallemi, Tim Roughgarden.
 <br />
@@ -30,7 +30,7 @@ Jason Milionis, Ciamac C. Moallemi, Tim Roughgarden.
 <br />
 ([Arxiv](https://arxiv.org/pdf/2303.00208).)
 
-7\. [Automated Market Making and Arbitrage Profits in the Presence of Fees](https://link.springer.com/chapter/10.1007/978-3-031-48806-1_17)
+7\. [Automated Market Making and Arbitrage Profits in the Presence of Fees](https://doi.org/10.1007/978-3-031-48806-1_17)
 <br />
 Jason Milionis, Ciamac C. Moallemi, Tim Roughgarden.
 <br />
@@ -44,7 +44,7 @@ Full version under journal submission.
 <br />
 \[[Talk at Stanford](https://www.youtube.com/watch?v=zuJIf_VTtBE).\]
 
-6\. [Complexity-Approximation Trade-offs in Exchange Mechanisms: AMMs vs. LOBs](https://link.springer.com/chapter/10.1007/978-3-031-47754-6_19)
+6\. [Complexity-Approximation Trade-offs in Exchange Mechanisms: AMMs vs. LOBs](https://doi.org/10.1007/978-3-031-47754-6_19)
 <br />
 Jason Milionis, Ciamac C. Moallemi, Tim Roughgarden.
 <br />
