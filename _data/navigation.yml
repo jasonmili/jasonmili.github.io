@@ -6,6 +6,9 @@ main:
   #- title: "Talks"
   #  url: /talks/
 
+  - title: "EC'24 Tutorial"
+    url: /ec24-tutorial
+
   - title: "Teaching"
     url: /teaching/
 
