@@ -51,17 +51,9 @@ author_profile: false
   <p>Tutorial at <a href="https://ec24.sigecom.org">EC'24</a></p>
 
   <h2>Introduction to the topic</h2>
-  <p>In recent years, automated market makers (AMMs) have emerged as an alternative to the most common market structure used for electronic trading, the limit order book, and have been the dominant market mechanism for trust-less decentralized exchanges.
-    AMMs have recently emerged as the dominant market structure for asset exchange in blockchains.
-    Compared to electronic limit order books (LOBs), which are the dominant market structure for traditional, centralized exchange-based electronic markets, AMMs offer some advantages.
-    First of all, they are efficient computationally. They have minimal storage needs, and matching computations can be done quickly, typically via constant-time closed-form algebraic computations. In an LOB, on the other hand, matching engine calculations may involve complex data structures and computations that scale with the number of orders. Thus, AMMs are uniquely suited to the severely computation- and storage-constrained environment of blockchains; as such, computer scientists have a key interest in the topic.
-    Second, LOBs are not well-suited to a "long-tail" of illiquid assets. This is because they require the participation of active market makers. In contrast, AMMs mainly rely on passive liquidity providers (LPs).
-    These key characteristics make AMM-based markets observe structural differences with traditional markets.</p>
-  <p>
-    The focus of the tutorial will be on the pre-eminent model of the underlying economics of AMMs, developed by <a href="https://arxiv.org/pdf/2208.06046">Milionis et al. (2022)</a>, centering on the main adverse selection cost incurred by liquidity providers in such exchanges, called "loss-versus-rebalancing" (LVR).
-    We will go into the multiple ways to interpret the intuition behind adverse selection in these new markets, and then develop the necessary math to give a closed-form expression for LVR in AMMs.
-    In the case of the constant product market, this leads to a concise expression: σ²/8, where σ is the volatility of the price process.
-    The main goals of this tutorial are to learn about the market structure of AMMs, the reason why LVR is an important quantity in DeFi, how it applies to data, and how to mathematically analyze it.</p>
+  <p>In recent years, automated market makers (AMMs) have emerged as an alternative to the most common market structure used for electronic trading, the limit order book (LOB). AMMs are currently the dominant market structure for the on-chain exchange of digital assets. One advantage of AMMs over LOBs is computational efficiency: AMMs generally have minimal storage needs and require only lightweight computations, as opposed to the relatively complex data structures and matching logic typically used by large-scale LOBs. Second, LOBs are not well-suited to "long-tail" assets (i.e., those with thin trading markets), as they generally require the participation of active market makers. In contrast, AMMs rely largely on passive liquidity providers (LPs). There is a well-developed theory for the design and analysis of LOBs; what would an analogous theory look like for AMMs?</p>
+  <p>The focus of the tutorial will be on the adverse selection costs incurred by liquidity providers in automated market makers, and in particular the concept of "loss-versus-rebalancing" (LVR) introduced recently by Milionis, Moellemi, Roughgarden, and Zhang (2022). We will discuss multiple ways to interpret LVR, and then develop the necessary math to give a closed-form expression for LVR in AMMs (e.g., σ²/8 for the ubiquitous “x*y=k” AMM made famous by Uniswap, where σ denotes the volatility of the price process).</p>
+  <p>The primary goals of this tutorial are to learn about the market structure of AMMs, the reasons why LVR is an important quantity in decentralized finance, how LVR applies to data, and the mathematics that are best suited for reasoning about and predicting LVR.</p>
 
   <h2>Organizers</h2>
   <p><a href="https://jasonmili.github.io">Jason Milionis</a>, <a href="https://moallemi.com/ciamac">Ciamac C. Moallemi</a>, and <a href="https://timroughgarden.org">Tim Roughgarden</a></p>
@@ -70,11 +62,11 @@ author_profile: false
   <ul class="tutorial-list">
     <li><a href="#part1">Part I</a>: Slides, Video</li>
     <li><a href="#part2">Part II</a>: Slides, Video</li>
-    <li><a href="https://ec24.sigecom.org/tech/conference-gather">Watch-Party Part I (password on EC24 registration)</a>: </li>
-    <li><a href="https://ec24.sigecom.org/tech/conference-gather">Watch-Party Part II (password on EC24 registration)</a>: </li>
+    <li><a href="#part3">Part III</a>: Slides, Video</li>
+    <li><a href="https://ec24.sigecom.org/tech/conference-gather">Link to Tutorial Day (password on EC24 registration)</a>: </li>
   </ul>
 
-  <h2>Part 1: AMMs and the multiple facets of LVR</h2>
+  <h2 id="part1">Part 1: AMMs and the multiple facets of LVR</h2>
   <p>This part of the tutorial will focus on a conceptual understanding of the market structure posed by AMMs, as well as the multiple structural results. No knowledge of AMMs will be assumed.</p>
   <ul>
       <li>Introduction to AMMs: market that always accepts orders to buy/sell at a quoted price</li>
@@ -85,20 +77,27 @@ author_profile: false
               <li>Cost of informational asymmetry: the AMM does not have access to accurate market prices</li>
               <li>Hedging interpretation: the market mechanism has inventory of a risky asset which changes value; factoring out the changes in value of the underlying ("eliminating market risk") leads to discrete delta-hedging, e.g., every 5 minutes, adjust a short position on asset in an external venue</li>
               <li>Profit of arbitrageurs trading against AMMs</li>
-              <li>Optionality cost: time value for giving up future optionality on market strategy</li>
           </ul>
       </li>
-      <li>Example empirical analysis in an actual market (Uniswap v2)</li>
+      <li>Example empirical analysis in an actual market (ETH-USDC in Uniswap v2)</li>
   </ul>
 
-  <h2>Part 2: the mathematics behind LVR</h2>
-  <p>This part of the tutorial will delve into the mathematical details underlying the structural characterizations and conceptual understanding.</p>
+  <h2 id="part2">Part 2: Mathematical characterization of the AMM design space</h2>
+  <p>The second part of the tutorial will delve into the mathematical details underlying the structural characterizations and conceptual understanding of AMMs.</p>
   <ul>
-      <li>Representation results around AMMs: dual representation, invariant ↔ demand curves</li>
-      <li>Stochastic calculus: introduction to reasoning about continuous-time stochastic processes</li>
-      <li>Ito's lemma: the key tool to analyze functions of stochastic processes, dominant second-order effects</li>
-      <li>Closed-form formula for LVR in AMMs via Ito's lemma</li>
-      <li>Derivation of σ²/8 in special case of constant product market</li>
+      <li>Convex optimization framework for AMMs: dual representation, portfolio value function</li>
+      <li>Notion of marginal liquidity in an AMM</li>
+      <li>Exchanges as demand curves and relation to Myerson's lemma</li>
+      <li>Equivalence theorems around the different representations of AMMs: demand curves, convex bonding curve, and portfolio value function are equivalent</li>
+  </ul>
+
+  <h2 id="part3">Part 3: Characterizing LVR in a Black-Scholes-style model</h2>
+  <p>The final part of the tutorial will introduce just enough mathematics to derive a characterization of LVR in the most basic model studied in continuous-time finance.</p>
+  <ul>
+    <li>Geometric Brownian motion: what it is and how to think about it</li>
+    <li>A glimpse of stochastic calculus and how it differs from the calculus you know (and love?)</li>
+    <li>Characterization of LVR for arbitrary AMMs</li>
+    <li>Derivation of σ²/8 for the special case of "x*y=k" AMMs</li>
   </ul>
 
   <!-- <h2>Topics Covered</h2>
