@@ -16,6 +16,16 @@ author_profile: true
 {% endfor %}
 --->
 
+10\. [Swim till you sink: Computing the limit of a game](https://doi.org/10.1007/978-3-031-71033-9_12)
+<br />
+Rashida Hakim, Jason Milionis, Christos Papadimitriou, Georgios Piliouras.
+<br />
+<i>Proceedings of The 17th International Symposium on Algorithmic Game Theory</i> (SAGT 2024).
+<br />
+**Best Paper** Award.
+<br />
+([Arxiv](https://arxiv.org/pdf/2408.11146.pdf).)
+
 9\. [An impossibility theorem in game dynamics](https://www.pnas.org/doi/10.1073/pnas.2305349120)
 <br />
 Jason Milionis, Christos Papadimitriou, Georgios Piliouras, Kelly Spendlove.
