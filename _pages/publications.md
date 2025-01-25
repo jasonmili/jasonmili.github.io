@@ -16,6 +16,14 @@ author_profile: true
 {% endfor %}
 --->
 
+11\. [The Early Days of the Ethereum Blob Fee Market and Lessons Learnt](https://doi.org)
+<br />
+Lioba Heimbach, Jason Milionis.
+<br />
+<i>Financial Cryptography and Data Security</i> (FC 2025).
+<br />
+([Arxiv](https://arxiv.org).)
+
 10\. [Swim till you sink: Computing the limit of a game](https://doi.org/10.1007/978-3-031-71033-9_12)
 <br />
 Rashida Hakim, Jason Milionis, Christos Papadimitriou, Georgios Piliouras.
@@ -40,7 +48,7 @@ Jason Milionis, Ciamac C. Moallemi, Tim Roughgarden.
 <br />
 ([Arxiv](https://arxiv.org/pdf/2303.00208).)
 
-7\. [Automated Market Making and Arbitrage Profits in the Presence of Fees](https://doi.org/10.1007/978-3-031-48806-1_17)
+7\. [Automated Market Making and Arbitrage Profits in the Presence of Fees](https://doi.org/10.1007/978-3-031-78676-1_9)
 <br />
 Jason Milionis, Ciamac C. Moallemi, Tim Roughgarden.
 <br />
@@ -48,7 +56,9 @@ Extended abstract, <i>Financial Cryptography and Data Security</i> (FC 2023), Wo
 <br />
 Invited talk, <i>Science of Blockchain Conference 2023 (SBC'23)</i>.
 <br />
-Full version under journal submission.
+<i>Financial Cryptography and Data Security</i> (FC 2024).
+<br />
+Follow-up version under journal submission.
 <br />
 ([Arxiv](https://arxiv.org/pdf/2305.14604).)
 <br />
@@ -74,7 +84,7 @@ Preliminary working paper.
 <br />
 Jason Milionis, Ciamac C. Moallemi, Tim Roughgarden, Anthony Lee Zhang.
 <br />
-Extended abstract, <i>Proceedings of the 2022 ACM Computer and Communications Security (CCS) Workshop on Decentralized Finance and Security</i> (ACM CCS DeFi 2022).
+<i>Proceedings of the 2022 ACM Computer and Communications Security (CCS) Workshop on Decentralized Finance and Security</i> (ACM CCS DeFi 2022).
 <br />
 Full version under journal submission.
 <br />
