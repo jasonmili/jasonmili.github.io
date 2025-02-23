@@ -22,7 +22,7 @@ Lioba Heimbach, Jason Milionis.
 <br />
 <i>Financial Cryptography and Data Security</i> (FC 2025).
 <br />
-([Arxiv](https://arxiv.org).)
+([Arxiv](https://arxiv.org/pdf/2502.12966).)
 
 10\. [Swim till you sink: Computing the limit of a game](https://doi.org/10.1007/978-3-031-71033-9_12)
 <br />
@@ -116,6 +116,6 @@ Jason Milionis, Alkis Kalavasis, Dimitris Fotakis, Stratis Ioannidis.
 <br />
 <i>Proceedings of The 25th International Conference on Artificial Intelligence and Statistics</i> (AISTATS 2022).
 <br />
-([Arxiv](https://arxiv.org/pdf/2203.14129).)
+([Arxiv](https://arxiv.org/pdf/2202.11199).)
 <br />
 \[[Short talk at AISTATS](https://virtual.aistats.org/virtual/2022/poster/3274).\]
