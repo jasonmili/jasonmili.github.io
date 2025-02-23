@@ -63,6 +63,8 @@ Follow-up version under journal submission.
 ([Arxiv](https://arxiv.org/pdf/2305.14604).)
 <br />
 \[[Talk at Stanford](https://www.youtube.com/watch?v=zuJIf_VTtBE).\]
+<br />
+\[[Long talk at UCSB](https://www.youtube.com/watch?v=MzA8Jr4VabY).\]
 
 6\. [Complexity-Approximation Trade-offs in Exchange Mechanisms: AMMs vs. LOBs](https://doi.org/10.1007/978-3-031-47754-6_19)
 <br />
@@ -91,6 +93,8 @@ Full version under journal submission.
 ([Arxiv](https://arxiv.org/pdf/2208.06046).)
 <br />
 \[[Long talk at CMU](https://www.youtube.com/watch?v=Xz2PfxlKOZM).\]
+<br />
+\[[15-minute overview talk at the Secure Blockchain Summit](https://www.youtube.com/watch?v=ja3HPbkgaIY).\]
 
 3\. [A Framework for Single-Item NFT Auction Mechanism Design](https://dl.acm.org/doi/10.1145/3560832.3563436)
 <br />
