@@ -16,7 +16,15 @@ author_profile: true
 {% endfor %}
 --->
 
-11\. [The Early Days of the Ethereum Blob Fee Market and Lessons Learnt](https://doi.org)
+12\. Incentive-Compatible Recovery from Manipulated Signals, with Applications to Decentralized Physical Infrastructure
+<br />
+Jason Milionis, Jens Ernstberger, Joseph Bonneau, Scott Duke Kominers, Tim Roughgarden.
+<!-- <br />
+<i>Financial Cryptography and Data Security</i> (FC 2025). -->
+<br />
+([Arxiv](https://arxiv.org/pdf/2503.07558).)
+
+11\. The Early Days of the Ethereum Blob Fee Market and Lessons Learnt
 <br />
 Lioba Heimbach, Jason Milionis.
 <br />
