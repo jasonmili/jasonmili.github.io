@@ -55,6 +55,8 @@ Jason Milionis, Ciamac C. Moallemi, Tim Roughgarden.
 <i>15th Innovations in Theoretical Computer Science Conference</i> (ITCS 2024).
 <br />
 ([Arxiv](https://arxiv.org/pdf/2303.00208).)
+<br />
+\[[Talk at Simons Institute for the Theory of Computing, UC Berkeley](https://www.youtube.com/watch?v=rn3ccHwnrJ4).\]
 
 7\. [Automated Market Making and Arbitrage Profits in the Presence of Fees](https://doi.org/10.1007/978-3-031-78676-1_9)
 <br />
