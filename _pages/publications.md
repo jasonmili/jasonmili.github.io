@@ -16,6 +16,22 @@ author_profile: true
 {% endfor %}
 --->
 
+14\. On Testing the Incentive Compatibility of Single-parameter Allocation Mechanisms
+<br />
+Jason Milionis, William Pires.
+<br />
+Forthcoming on <i>Mathematics of Operations Research</i><!--, vol. XXX, no. XXX.-->
+<br />
+([Arxiv](https://arxiv.org/pdf/X).)
+
+13\. Optimal Fees for Liquidity Provision in Automated Market Makers
+<br />
+Steven Campbell, Philippe Bergault, Jason Milionis, Marcel Nutz.
+<br />
+Under journal submission.
+<br />
+([Arxiv](https://arxiv.org/pdf/2508.08152).)
+
 12\. Incentive-Compatible Recovery from Manipulated Signals, with Applications to Decentralized Physical Infrastructure
 <br />
 Jason Milionis, Jens Ernstberger, Joseph Bonneau, Scott Duke Kominers, Tim Roughgarden.
@@ -23,6 +39,8 @@ Jason Milionis, Jens Ernstberger, Joseph Bonneau, Scott Duke Kominers, Tim Rough
 <i>Financial Cryptography and Data Security</i> (FC 2025). -->
 <br />
 ([Arxiv](https://arxiv.org/pdf/2503.07558).)
+<br />
+\[[Talk at Ethereum Research Funding Forum, ETH NYC](https://www.youtube.com/watch?v=X).\]
 
 11\. The Early Days of the Ethereum Blob Fee Market and Lessons Learnt
 <br />
@@ -46,7 +64,7 @@ Rashida Hakim, Jason Milionis, Christos Papadimitriou, Georgios Piliouras.
 <br />
 Jason Milionis, Christos Papadimitriou, Georgios Piliouras, Kelly Spendlove.
 <br />
-<i>Proceedings of the National Academy of Sciences</i>, vol. 120, no. 41
+<i>Proceedings of the National Academy of Sciences</i>, vol. 120, no. 41.
 
 8\. [A Myersonian Framework for Optimal Liquidity Provision in Automated Market Makers](https://doi.org/10.4230/LIPIcs.ITCS.2024.81)
 <br />
